@@ -1,0 +1,3 @@
+Aws statnds for Amazon Web Servies, it is a subsidary of amazon that
+provides on demand cloud computing flatforms
+

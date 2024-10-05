@@ -1,0 +1,1 @@
+SOmany commands are there in Linux, we can manage files and folders by using these commands
